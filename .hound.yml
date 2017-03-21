@@ -4,7 +4,7 @@ scss:
   config_file: scss/.scss-lint.yml
 
 jshint:
-  enabled: false
+  enabled   : false
 
 eslint:
   config_file: js/.eslintrc.json
